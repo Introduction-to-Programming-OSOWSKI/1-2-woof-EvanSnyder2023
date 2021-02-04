@@ -1,4 +1,4 @@
-def Woof():
+def Woof(x):
     return "Woof"
 
-print (Woof())
+print ("woof")
